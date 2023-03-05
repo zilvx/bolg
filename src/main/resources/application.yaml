@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: dev # 配置环境（生产、测试、开发）
+
+
+
